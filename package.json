@@ -1,0 +1,26 @@
+{
+  "name": "weatherxm-network",
+  "description": "The global, decentralized, weather network",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weatherxm-network/weatherxm-network.github.io.git"
+  },
+  "keywords": [
+    "weatherxm",
+    "weatherxm.network"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/weatherxm-network/weatherxm-network.github.io",
+  "bugs": {
+    "url": "https://github.com/weatherxm-network/weatherxm-network.github.io/issues"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "1.0.0-rc.36"
+  }
+}
