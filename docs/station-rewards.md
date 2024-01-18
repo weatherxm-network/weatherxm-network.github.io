@@ -19,3 +19,31 @@ Users can claim their rewards by using the Merkle proof. They don't have to clai
 
 We intend to use the Reward Mechanism v2.0 as described [here](https://docs.weatherxm.com/reward-mechanism#reward-mechanism-v20).
 A detailed description of the final mechanism will be published here once finalized.
+
+## Beta rewards
+
+According to the [Token Allocation](/docs/wxm-token.html#token-allocation) table 3,000,000 $WXM are reserved to reward stations that
+participated to the network before the [Token Launch Day](/docs/wxm-token.html#token-launch-day) ("Beta period").
+
+Beta rewards distribution will last 365 days, with Day 1 being the Token Launch day.
+
+### Calculation
+
+The following calculations will take place for each station `s`, the day before the Token Launch:
+
+1. `RewardableBetaHours[s]`.  
+This is the total number of hours the station provided valid data during the Beta period.
+2. `StationBetaRewards[s] = 3000000 * RewardableBetaHours[s]/Sum(RewardableBetaHours of all stations)`  
+This is the percentage of the 3m tokens that correspond to the rewardable hours the station provided.
+3. `DailyBetaRewards[s] = StationBetaRewards[s]/365`  
+This is the beta rewards allocated daily to this station.
+
+### Distribution
+
+For 365 days after the Token Launch, **in addition to their daily rewards**, stations will receive beta rewards as follows:
+
+`BetaRewards[s] = DailyBetaRewards[s] * QoD_Score`
+
+So each one of the stations that participated during the Beta period, for 365 days after the Token Launch, every day they will recieve:
+
+`Rewards = DailyRewards + BetaRewards`

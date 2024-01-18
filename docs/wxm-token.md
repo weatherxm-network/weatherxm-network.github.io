@@ -20,7 +20,7 @@ the people that have contributed to the Network development as well as people wh
 | Allocation    | Usage 		|  Details |
 | -------------: | :----------- | :---- |
 | 52m   | Station rewards 	| 14,246 tokens will be distributed to station owners every day for providing data to the Network.|
-| 3m    | Beta testers|   3m tokens will be distributed to station owners that participated in the Network during its beta phase. |
+| 3m    | Beta testers|   3m tokens [will be distributed](/docs/station-rewards.html#beta-rewards) to station owners that participated in the Network during its beta phase. |
 | 10m 	| Treasury    		| 10m tokens are reserved in the Association's treasury. They will be used to support the WeatherXM ecosystem development.|
 | 5m 	| Market&nbsp;supply 	| 5m tokens will be provided to token exchanges as a way to allow other interested parties to join the WeatherXM ecosystem governance and/or license data |
 | 30m 	| Initial&nbsp;contributors | 30m tokens will be allocated to initial contributors of the project |
