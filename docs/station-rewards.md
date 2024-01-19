@@ -39,12 +39,12 @@ This is the percentage of the 3m tokens that correspond to the rewardable hours 
 3. `DailyBetaRewards[s] = StationBetaRewards[s]/365`  
 This is the beta rewards allocated daily to this station.
 
-### Distribution
+### Claim
 
-For 365 days after the Token Launch, **in addition to their daily rewards**, stations will receive beta rewards as follows:
+For 365 days after the Token Launch, **in addition to their daily rewards**, stations will be able to claim beta rewards as follows:
 
 `BetaRewards[s] = DailyBetaRewards[s] * QoD_Score`
 
-So each one of the stations that participated during the Beta period, for 365 days after the Token Launch, every day they will recieve:
+So each one of the stations that participated during the Beta period, every day after the Token Launch, and for 365 days, they will be able to claim:
 
 `Rewards = DailyRewards + BetaRewards`
