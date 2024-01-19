@@ -32,7 +32,8 @@ Beta rewards distribution will last 365 days, with Day 1 being the Token Launch 
 The following calculations will take place for each station `s`, the day before the Token Launch:
 
 1. `RewardableBetaHours[s]`.  
-This is the total number of hours the station provided valid data during the Beta period.
+This is the total number of hours the station provided valid data during the Beta period.  
+A rewardable hour is an hour during which the station sent at least one valid weather data point.
 2. `StationBetaRewards[s] = 3000000 * RewardableBetaHours[s]/Sum(RewardableBetaHours of all stations)`  
 This is the percentage of the 3m tokens that correspond to the rewardable hours the station provided.
 3. `DailyBetaRewards[s] = StationBetaRewards[s]/365`  
