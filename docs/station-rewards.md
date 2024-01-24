@@ -25,7 +25,7 @@ A detailed description of the final mechanism will be published here once finali
 According to the [Token Allocation](/docs/wxm-token.html#token-allocation) table 3,000,000 $WXM are reserved to reward stations that
 participated to the network before the [Token Launch Day](/docs/wxm-token.html#token-launch-day) ("Beta period").
 
-Beta rewards distribution will last 365 days, with Day 1 being the Token Launch day.
+Beta rewards distribution will last 425 days, with Day 1 being the Token Launch day.
 
 ### Calculation
 
@@ -39,9 +39,11 @@ This is the percentage of the 3m tokens that correspond to the rewardable hours 
 3. `DailyBetaRewards[s] = StationBetaRewards[s]/365`  
 This is the beta rewards allocated daily to this station.
 
+Stations must have a wallet defined to be part of the Beta Rewards allocation.
+
 ### Claim
 
-For 365 days after the Token Launch, **in addition to their daily rewards**, stations will be able to claim beta rewards as follows:
+For 425 days after the Token Launch, **in addition to their daily rewards**, stations will be able to claim beta rewards as follows:
 
 `BetaRewards[s] = DailyBetaRewards[s] * QoD_Score`
 
