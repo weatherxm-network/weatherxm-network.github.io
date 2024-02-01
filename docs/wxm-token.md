@@ -8,13 +8,13 @@ voting rights.
 
 The total supply of $WXM is 100,000,000.
 
-$WXM tokens are allocated to Network participants for their contribution to the Network, such as weather data, expertise,
+$WXM tokens are allocated to Network participants and supporters for their contribution to the Network, such as weather data, expertise,
 research and software code.
 
 ## Token allocation
 
 The tokens are allocated to various participants of the Network as follows. The intention of the allocation is to provide governance rights to
-the people that have contributed to the Network development as well as people who contribute data to grow the Network.
+the people that have supported the Network development as well as people who contribute data to grow the Network.
 
 
 | Allocation    | Usage 		|  Details |
@@ -23,11 +23,11 @@ the people that have contributed to the Network development as well as people wh
 | 3m    | Beta testers|   3m tokens [will be distributed](/docs/station-rewards.html#beta-rewards) to station owners that participated in the Network during its beta phase. |
 | 10m 	| Treasury    		| 10m tokens are reserved in the Association's treasury. They will be used to support the WeatherXM ecosystem development.|
 | 5m 	| Market&nbsp;supply 	| 5m tokens will be provided to token exchanges as a way to allow other interested parties to join the WeatherXM ecosystem governance and/or license data |
-| 30m 	| Initial&nbsp;contributors | 30m tokens will be allocated to initial contributors of the project |
+| 30m 	| Initial&nbsp;supporters | 30m tokens will be allocated to initial supporters of the project |
 
 ## Locked tokens
 - **Treasury** tokens will be locked and they will be unlocked linearly during a 5 year period, starting from the day of the token launch.
-- **Initial Contributors** tokens will be locked and they will be unlocked daily using a 10-10-80% distribution in the first 3 years (3m first year, 3m second year, 24m third year).
+- **Initial Supporters** tokens will be locked and they will be unlocked daily using a 10-10-80% distribution in the first 3 years (3m first year, 3m second year, 24m third year).
 
 ## Token Launch Day
 
