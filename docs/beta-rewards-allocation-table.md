@@ -1,4 +1,4 @@
-# Beta Rewards Table <Badge type="warning" text="Calculated 2024-04-04" />
+# Beta Rewards Table <Badge type="warning" text="Calculated 2024-04-01" />
 
 This is the BRT (Beta Rewards Table), calculated according to the [Beta Rewards algorithm](/docs/station-rewards.html#beta-rewards).
 
