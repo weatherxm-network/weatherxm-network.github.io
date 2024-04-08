@@ -3,8 +3,8 @@
 Stations are rewarded with $WXM tokens (governance participation) based on the data they contribute on a daily basis.
 
 ::: info
-- Stations will start receiveing $WXM rewards on Arbitrum **mainnet** in February 2024.
 - Stations will start receiving $WXM rewards on Arbitrum **sepolia testnet** by January 16, 2024
+- Stations will start receiveing $WXM rewards on Arbitrum **mainnet** soon (TBA).
 :::
 
 ## Algorithm
@@ -27,6 +27,12 @@ participated to the network before the [Token Launch Day](/docs/wxm-token.html#t
 
 Beta rewards distribution will last 425 days, with Day 1 being the Token Launch day.
 
+::: tip
+The final Beta Rewards Table (BRT) will
+be calculated the day before the mainnet lauch. A preview is available
+[here](beta-rewards-allocation-table). 
+:::
+
 ### Calculation
 
 The following calculations will take place for each station `s`, the day before the Token Launch:
@@ -40,6 +46,8 @@ This is the percentage of the 3m tokens that correspond to the rewardable hours 
 This is the beta rewards allocated daily to this station.
 
 Stations must have a wallet defined to be part of the Beta Rewards allocation.
+
+The day before the mainnet launch, [the Beta Rewards Table will be updated and published here](beta-rewards-allocation-table).
 
 ### Claim
 
