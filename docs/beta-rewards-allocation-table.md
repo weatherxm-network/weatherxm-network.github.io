@@ -6,4 +6,4 @@ This is **NOT** the final BRT.
 
 This table is only intended to be used for tests before the mainnet launch.
 
-[Beta Rewards Table CSV](/20240404-brt.csv)
+[Beta Rewards Table CSV](/20240401-brt.csv)
