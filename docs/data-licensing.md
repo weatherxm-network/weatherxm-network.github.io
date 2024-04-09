@@ -3,15 +3,16 @@
 ## Commercial Use
 
 In order to establish a price discovery mechanism, and allow teams to invest, innovate and
-build on top of the WeatherXM Dataset, we will auction four licenses that allow their holders
-to use our dataset commercially.
+build on top of the WeatherXM Dataset, we will auction four licenses 
+that allow their holders to use our dataset commercially.
 
+### Data Licenses Auction
 More specifically, the WeatherXM Network Association will auction four (4) licenses every year:
 
-1. Licensees will get **the right to use the full WeatherXM Dataset commercially.**   
-Commercial uses include building and selling value-added services, selling access to the data set for the duration of the license, selling the data through a REST API, building B2B or B2C services that integrate the data, using the data in proprietary weather models.
+1. Licensees will get **commerical use rights of the whole WeatherXM Dataset**.  
+Commercial uses include, but are not limited to, building and selling value-added services, selling access to the data set for the duration of the license, selling the data through a REST API, building B2B or B2C services that integrate the data, using the data in proprietary weather models.
 2. **The duration of each license is one year (January 1, to December 31).**   
-The licensee can not make commercial use of the data after the license has expired.
+The licensee can not make commercial use of the data after their license has expired.
 3. **Acceptable bids must be in $WXM and the minimum bid is 100,000 $WXM.**
 4. The auction starts on November 1 and is concluded on November 30 of the previous year.
 5. The auction is public, and bids will be submitted using a smart contract.
