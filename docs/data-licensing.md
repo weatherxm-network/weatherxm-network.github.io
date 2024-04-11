@@ -19,7 +19,7 @@ The licensee can not make commercial use of the data after the license has expir
 
 ### Special provisions for 2024:
 - 2024 licenses will be auctioned 30 days after station rewards appear on the Arbitrum mainnet. The duration of the auction will be 15 days.
-- The auction will take place off-chain. Bidders must email auction@weatherxm.network with the amount of $WXM and proof (link to address on arbiscan) that they already hold the amount at the time of the bid. The association will make all bids received public.\
+- The auction will take place off-chain. Bidders must email ga@weatherxm.network with the amount of $WXM and proof (link to address on arbiscan) that they already hold the amount at the time of the bid. The association will make all bids received public.\
 (Details for the 2024 auction will be announced before the auction starts.)
 
 
