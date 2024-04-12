@@ -27,7 +27,7 @@ the people that have supported the Network development as well as people who con
 
 ## Locked tokens
 - **Treasury** tokens will be locked and they will be unlocked linearly during a 5 year period, starting from the day of the token launch.
-- **Initial Supporters** tokens will be locked and they will be unlocked in a period of three (3) years: 3m at the end of the first year (one year cliff), 3m during the second year (linear daily unlock), and 24m during the third year (linear daily unlock).
+- **Initial Supporters'** tokens will be locked and they will be unlocked during a period of four (4) years, linearly with one year cliff.
 
 ## Token Launch Day
 
