@@ -42,6 +42,6 @@ The Token Launch Day is the day that the station owners will start receiving $WX
 ### Arbitrum
 
 - Token: [0xB6093B61544572Ab42A0E43AF08aBaFD41bf25A6](https://arbiscan.io/address/0xB6093B61544572Ab42A0E43AF08aBaFD41bf25A6)
-- Rewards Vault: [0x3d5aA83d830398ad93fBAF98ee7079278b9DCD49](https://arbiscan.io/address/0x3d5aa83d830398ad93fbaf98ee7079278b9dcd49)
-- Rewards Pool: [0x3E009673b42a5cAbDe807A2EE44bb9a8029Ca0aE](https://arbiscan.io/address/0x3E009673b42a5cAbDe807A2EE44bb9a8029Ca0aE)
+- Rewards Vault: [0x93F1A412050BaB0C317844361E4cC801ED5aca72](https://arbiscan.io/address/0x93F1A412050BaB0C317844361E4cC801ED5aca72)
+- Rewards Pool: [0x2CDBa04dcFD3999ef3FDa00121b23c693AF4041b](https://arbiscan.io/address/0x2CDBa04dcFD3999ef3FDa00121b23c693AF4041b)
 
