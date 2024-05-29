@@ -2,7 +2,7 @@
 
 In order to enable the weather data ecosystem, WeatherXM Network will issue an ERC20 token called $WXM. 
 
-- $WXM is the governance token that will be used to govern the WeatherXM Network. $WXM grants its holders
+- $WXM is the [governance](governance) token that will be used to govern the WeatherXM Network. $WXM grants its holders
 voting rights. 
 - $WXM is also used to acquire [licensing rights](data-licensing) on the Network's data.
 

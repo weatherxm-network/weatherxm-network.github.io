@@ -24,6 +24,7 @@ export default defineConfig({
         items: [
           { text: 'Association', link: '/docs/association' },
           { text: '$WXM Token', link: '/docs/wxm-token' },
+          { text: 'Governance', link: '/docs/governance' },
           { text: 'Weather Stations', link: '/docs/weather-stations' },
           { text: 'Data Licensing', link: '/docs/data-licensing' },
           { text: 'Station Rewards', link: '/docs/station-rewards' },
