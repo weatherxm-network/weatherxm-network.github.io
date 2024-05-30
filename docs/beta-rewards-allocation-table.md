@@ -1,9 +1,10 @@
-# Beta Rewards Table <Badge type="warning" text="Calculated 2024-04-01" />
+# Beta Rewards Table <Badge type="warning" text="Final" />
 
-This is the BRT (Beta Rewards Table), calculated according to the [Beta Rewards algorithm](/docs/station-rewards.html#beta-rewards).
+Here you can find the final Beta Rewards Table (BRT), calculated according to the
+[Beta Rewards algorithm](/docs/station-rewards.html#beta-rewards).
 
-This is **NOT** the final BRT. 
+The project's Beta period officially ended on May 27th (UTC). All station-hours accumulated up to 
+this date are included in the final calculation and all stations are rewarded for 
+participating in the Beta period with a daily Reward Boost.
 
-This table is only intended to be used for tests before the mainnet launch.
-
-Beta Rewards Table: [[CSV]](/20240401-brt.csv) [[TXT]](/20240401-brt.txt)
+Download the BRT here: [[CSV]](/wxm-brt-final.csv)
