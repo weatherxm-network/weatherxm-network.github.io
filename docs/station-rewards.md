@@ -23,14 +23,13 @@ A detailed description of the final mechanism will be published here once finali
 ## Beta rewards
 
 According to the [Token Allocation](/docs/wxm-token.html#token-allocation) table 3,000,000 $WXM are reserved to reward stations that
-participated to the network before the [Token Launch Day](/docs/wxm-token.html#token-launch-day) ("Beta period").
+participated in the network before the [Token Launch Day](/docs/wxm-token.html#token-launch-day) ("Beta period").
 
 Beta rewards distribution will last 425 days, with Day 1 being the Token Launch day.
 
 ::: tip
-The final Beta Rewards Table (BRT) will
-be calculated the day before the mainnet lauch. A preview is available
-[here](beta-rewards-allocation-table). 
+The Beta Rewards Table (BRT) was calculated with all station data up to May 27, 2024, that marked the end of
+the project's beta phase. You can find the BRT [here](beta-rewards-allocation-table). 
 :::
 
 ### Calculation
