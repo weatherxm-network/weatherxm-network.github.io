@@ -2,9 +2,10 @@
 
 Stations are rewarded with $WXM tokens (governance participation) based on the data they contribute on a daily basis.
 
-::: info
-- Stations will start receiving $WXM rewards on Arbitrum **sepolia testnet** by January 16, 2024
-- Stations will start receiveing $WXM rewards on Arbitrum **mainnet** soon (TBA).
+::: info 
+Stations started receiving $WXM rewards on **Arbitrum One** mainnet on May 30, 2024.
+An updated, fairer calculation was used, that will ultimately deliver ~3.2M (instead of 3.0M) 
+tokens to beta stations. [Read more on our blog](https://blog.weatherxm.com/a-fix-for-beta-rewards-dilution-493f1a81a28d).
 :::
 
 ## Algorithm
@@ -45,8 +46,6 @@ This is the percentage of the 3m tokens that correspond to the rewardable hours 
 This is the beta rewards allocated daily to this station.
 
 Stations must have a wallet defined to be part of the Beta Rewards allocation.
-
-The day before the mainnet launch, [the Beta Rewards Table will be updated and published here](beta-rewards-allocation-table).
 
 ### Claim
 

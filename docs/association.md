@@ -4,7 +4,7 @@ outline: deep
 
 # WeatherXM Network Association
 
-The "WeatherXM Network Association" was established on 14-Dec-2023, pursuant to Articles 60 to 79 of the Swiss Civil Code. It is an independent legal entity with legal capacity and is governed by Swiss law. It has a registered office and administration in Zug, Switzerland.
+The "WeatherXM Network Association" was established on Dec 24,  2023, pursuant to Articles 60 to 79 of the Swiss Civil Code. It is an independent legal entity with legal capacity and is governed by Swiss law. It has a registered office and administration in Zug, Switzerland.
 
 ## Purpose
 **The purpose of the Association is to grow and develop the open source blockchain protocol WeatherXM and its surrounding community and ecosystem.**
