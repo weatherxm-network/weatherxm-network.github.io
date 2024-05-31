@@ -4,7 +4,7 @@ Stations are rewarded with $WXM tokens (governance participation) based on the d
 
 ::: info 
 Stations started receiving $WXM rewards on **Arbitrum One** mainnet on May 30, 2024.
-An updated, fairer calculation was used, that will ultimately deliver 3.2M (instead of 3.0M) 
+An updated, fairer calculation was used, that will ultimately deliver ~3.2M (instead of 3.0M) 
 tokens to beta stations. [Read more on our blog](https://blog.weatherxm.com/a-fix-for-beta-rewards-dilution-493f1a81a28d).
 :::
 
