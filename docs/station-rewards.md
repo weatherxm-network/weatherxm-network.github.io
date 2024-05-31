@@ -2,9 +2,7 @@
 
 Stations are rewarded with $WXM tokens (governance participation) based on the data they contribute on a daily basis.
 
-::: info
-- Stations started receiveing $WXM rewards on Arbitrum One **mainnet** on May 30, 2024.
-:::
+::: info Stations started receiveing $WXM rewards on Arbitrum One **mainnet** on May 30, 2024. :::
 
 ## Algorithm
 
