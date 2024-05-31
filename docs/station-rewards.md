@@ -3,8 +3,7 @@
 Stations are rewarded with $WXM tokens (governance participation) based on the data they contribute on a daily basis.
 
 ::: info
-- Stations will start receiving $WXM rewards on Arbitrum **sepolia testnet** by January 16, 2024
-- Stations will start receiveing $WXM rewards on Arbitrum **mainnet** soon (TBA).
+- Stations started receiveing $WXM rewards on Arbitrum One **mainnet** on May 30, 2024.
 :::
 
 ## Algorithm
