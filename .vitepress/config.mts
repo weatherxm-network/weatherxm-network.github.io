@@ -10,7 +10,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Documents', link: '/docs/association' }
+      { text: 'Documents', link: '/docs/association' },
+      { text: 'News', link: 'https://paragraph.xyz/@weatherxm' }
     ],
     footer: {
       message: '2024 <span style="color: red;">&hearts;</span> WeatherXM Network Association',
