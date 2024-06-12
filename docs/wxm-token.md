@@ -45,3 +45,5 @@ The Token Launch Day is the day that the station owners will start receiving $WX
 - Rewards Vault: [0x93F1A412050BaB0C317844361E4cC801ED5aca72](https://arbiscan.io/address/0x93F1A412050BaB0C317844361E4cC801ED5aca72)
 - Rewards Pool: [0x2CDBa04dcFD3999ef3FDa00121b23c693AF4041b](https://arbiscan.io/address/0x2CDBa04dcFD3999ef3FDa00121b23c693AF4041b)
 
+### Solana
+- Token: [wxmJYe17a2oGJZJ1wDe6ZyRKUKmrLj2pJsavEdTVhPP](https://solscan.io/token/wxmJYe17a2oGJZJ1wDe6ZyRKUKmrLj2pJsavEdTVhPP)
