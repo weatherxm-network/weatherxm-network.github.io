@@ -11,13 +11,16 @@ hero:
   tagline: Welcome to Weather 3.0
   actions:
     - theme: brand
-      text: Get your station and join the network.
+      text: Get your station and join the network!
       link: https://weatherxm.com/shop
     - theme: alt
-      text: Claim your rewards.
+      text: Claim your allocated rewards?
       link: https://claim.weatherxm.com
 
 features:
+  - title: The Association
+    details: Learn about the WeatherXM Network Association
+    link: /docs/association
   - title: The $WXM token
     details: $WXM is WeatherXM Network's governance and data licensing token.
     link: /docs/wxm-token
@@ -27,13 +30,4 @@ features:
   - title: Station Rewards
     details: Stations that participate in the Network get $WXM rewards.
     link: /docs/station-rewards
-  - title: Hardware
-    details: Weather stations manufacturers and hardware diversity.
-    link: /docs/weather-stations.html
-  - title: The Association
-    details: Learn about the WeatherXM Network Association
-    link: /docs/association
-  - title: Governance
-    details: Learn about the WeatherXM Network Association
-    link: /docs/governance
 ---
