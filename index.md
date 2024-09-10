@@ -11,11 +11,11 @@ hero:
   tagline: Welcome to Weather 3.0
   actions:
     - theme: brand
-      text: Get your station and join the network.
+      text: Get your station!
       link: https://weatherxm.com/shop
     - theme: alt
-      text: Claim your rewards.
-      link: https://claim.weatherxm.com
+      text: Network Explorer
+      link: https://explorer.weatherxm.com
 
 features:
   - title: The $WXM token

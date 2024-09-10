@@ -1,15 +1,21 @@
 # $WXM Token
 
-In order to enable the weather data ecosystem, WeatherXM Network will issue an ERC20 token called $WXM. 
+## Purpose and Utility
 
-- $WXM is the [governance](governance) token that will be used to govern the WeatherXM Network. $WXM grants its holders
+In order to enable the weather data ecosystem, WeatherXM Network has issues an ERC20 token called $WXM. 
+
+- $WXM is the [governance](governance) token used to govern the WeatherXM Network. $WXM grants its holders
 voting rights. 
 - $WXM is also used to acquire [licensing rights](data-licensing) on the Network's data.
 
 The total supply of $WXM is 100,000,000.
 
-$WXM tokens are allocated to Network participants and supporters for their contribution to the Network, such as weather data, expertise,
+30% of $WXM tokens have been allocated to early Network supporters for their contributions to the Network, such expertise,
 research and software code.
+
+::: tip Launch Day
+The **Token Launch Day is 30-May-2024**. This is the day that the station owners started receiving $WXM on the Arbitrum One mainnet.
+:::
 
 ## Token allocation
 
@@ -29,21 +35,6 @@ the people that have supported the Network development as well as people who con
 - **Treasury** tokens will be locked and they will be unlocked linearly during a 5 year period, starting from the day of the token launch.
 - **Initial Supporters'** tokens will be locked and they will be unlocked during a period of four (4) years, linearly with one year cliff.
 
-## Token Launch Day
 
-The Token Launch Day is the day that the station owners will start receiving $WXM on the mainnet.
 
-## Deployments
 
-### Ethereum
-
-- Token: [0xde654f497A563dd7A121c176a125dD2F11F13a83](https://etherscan.io/address/0xde654f497A563dd7A121c176a125dD2F11F13a83)
-
-### Arbitrum
-
-- Token (*Bridged from Ethereum*): [0xB6093B61544572Ab42A0E43AF08aBaFD41bf25A6](https://arbiscan.io/address/0xB6093B61544572Ab42A0E43AF08aBaFD41bf25A6)
-- Rewards Vault: [0x93F1A412050BaB0C317844361E4cC801ED5aca72](https://arbiscan.io/address/0x93F1A412050BaB0C317844361E4cC801ED5aca72)
-- Rewards Pool: [0x2CDBa04dcFD3999ef3FDa00121b23c693AF4041b](https://arbiscan.io/address/0x2CDBa04dcFD3999ef3FDa00121b23c693AF4041b)
-
-### Solana
-- Token (*Bridged from Ethereum*): [wxmJYe17a2oGJZJ1wDe6ZyRKUKmrLj2pJsavEdTVhPP](https://solscan.io/token/wxmJYe17a2oGJZJ1wDe6ZyRKUKmrLj2pJsavEdTVhPP)

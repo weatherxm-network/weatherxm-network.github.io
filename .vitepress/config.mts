@@ -10,7 +10,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Documents', link: '/docs/association' },
+      { text: 'Learn more', link: '/docs/association' },
       { text: 'News', link: 'https://paragraph.xyz/@weatherxm' },
     ],
     footer: {
@@ -21,14 +21,33 @@ export default defineConfig({
     },
     sidebar: [
       {
-        text: 'Documents',
+        text: 'Association',
         items: [
-          { text: 'Association', link: '/docs/association' },
-          { text: '$WXM Token', link: '/docs/wxm-token' },
+          { text: 'About', link: '/docs/association' },
           { text: 'Governance', link: '/docs/governance' },
-          { text: 'Weather Stations', link: '/docs/weather-stations' },
-          { text: 'Data Licensing', link: '/docs/data-licensing' },
+        ]
+      },
+      {
+        text: 'Token',
+        items: [
+          { text: 'Tokenomics', link: '/docs/wxm-token' },
+          { text: 'Smart Contracts', link: '/docs/smart-contracts' },
           { text: 'Station Rewards', link: '/docs/station-rewards' },
+          { text: 'Rewards Claim', link: '/docs/rewards-claim' },
+        ]
+      },
+      {
+        text: 'Weather Data',
+        items: [
+          { text: 'Data Access', link: '/docs/data-access' },
+          { text: 'Data Licensing', link: '/docs/data-licensing' },
+        ]
+      },
+      {
+        text: 'Hardware',
+        items: [
+          { text: 'Weather Stations', link: '/docs/weather-stations' },
+          { text: 'Manufacturers', link: '/docs/manufacturers' },
         ]
       }
     ],
