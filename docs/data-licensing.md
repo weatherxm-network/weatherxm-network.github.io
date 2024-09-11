@@ -6,6 +6,14 @@ In order to establish a price discovery mechanism, and allow teams to invest, in
 build on top of the WeatherXM Dataset, we will auction four licenses that allow their holders
 to use our dataset commercially.
 
+::: info Current License Holders
+
+[The 2024 Data License Auction has ended](https://paragraph.xyz/@weatherxm/data-license-2024-winners). 
+
+[WeatherXM AG](https://weatherxm.com) holds the only commercial data license for 2024.
+
+:::
+
 More specifically, the WeatherXM Network Association will auction four (4) licenses every year:
 
 1. Licensees will get **the right to use the full WeatherXM Dataset commercially.**   
