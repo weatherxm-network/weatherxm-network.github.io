@@ -1,3 +1,3 @@
 # WeatherXM Network Website
 
-Welcome to WeatherXM Network's website repo.
+Source code for https://weatherxm.network/
