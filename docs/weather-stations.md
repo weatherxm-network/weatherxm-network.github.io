@@ -23,6 +23,7 @@ Manufacturers must pay an onboarding fee of $100 to the Association for every st
 
 The Association makes periodic announcements about the fees collected on [our blog](https://paragraph.xyz/@weatherxm/3):
 
+- 2024-06-16: [$350,000 worth of onboarding fees collected in Q3 2024](https://paragraph.xyz/@weatherxm/350,000-worth-of-onboarding-fees-collected-in-q3-2024)
 - 2024-06-06: [$300,000 worth of onboarding fees collected](https://paragraph.xyz/@weatherxm/300k-onboarding-fees)
 
 ::: info Pre-association weather stations
