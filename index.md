@@ -31,9 +31,9 @@ features:
     details: Weather stations manufacturers and hardware diversity.
     link: /docs/weather-stations.html
   - title: The Association
-    details: Learn about the WeatherXM Network Association
+    details: What is the WeatherXM Network Association?
     link: /docs/association
   - title: Governance
-    details: Learn about the WeatherXM Network Association
+    details: Learn about the Association governance.
     link: /docs/governance
 ---

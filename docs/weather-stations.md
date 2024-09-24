@@ -12,9 +12,8 @@ In this direction, the Association:
 - will publish the required station specifications and,
 - will establish an approval process for hardware manufacturers.
 
-::: info 
-The approval process has not been formalized yet. However, if you are interested to manufacture
-WeatherXM-compatible stations, please contact partner@weatherxm.com.
+::: info Are you a hardware manufacturer?
+[Read why this is a great opportunity for you, and learn how you can certify your stations](/docs/manufacturers).
 :::
 
 ## Onboarding fees
