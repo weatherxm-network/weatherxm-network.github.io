@@ -16,7 +16,8 @@ wallet that holds the tokens used for station rewards.
 
 The initial balance of the Station Rewards Wallet was 55,000,000 $WXM (daily rewards and beta rewards) and
 given the fixed rate of rewards, **it holds enough tokens to reward stations until 2034.**
-In the future, a governance decision to add tokens from the Association's treasury can extend this period.
+Because data license auctions are in WXM the association receives WXM tokens back from the 
+market and stores/locks them in order to provide rewards for the future beyond 2034.
 
 Every day, the amount of $WXM that is required for station rewards is transfered to the Rewards Pool ([arb:0x2CDBa04dcFD3999ef3FDa00121b23c693AF4041b](https://arbiscan.io/address/0x2cdba04dcfd3999ef3fda00121b23c693af4041b)) smart contract, where station owners can claim them.
 
