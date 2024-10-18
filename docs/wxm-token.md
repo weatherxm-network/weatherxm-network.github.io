@@ -36,5 +36,4 @@ the people that have supported the Network development as well as people who con
 - **Initial Supporters'** tokens will be locked and they will be unlocked during a period of four (4) years, linearly with one year cliff.
 
 
-
-
+Visit [Association Financials](/docs/association-financials) for details on the addresses that hold the Association's tokens.
