@@ -24,7 +24,7 @@ given the fixed rate of rewards, **it holds enough tokens to reward stations unt
 Because data license auctions are in WXM the association receives WXM tokens back from the 
 market and stores/locks them in order to provide rewards for the future beyond 2034.
 
-## Treasury Wallets
+### Treasury Wallets
 
 - [eth:0xC506E1f48bC62e5659707c7DC4A5005F71C9EF26](https://etherscan.io/address/0xC506E1f48bC62e5659707c7DC4A5005F71C9EF26)
 - [arb:0xe09471Ab9b3f8c45D7EBAdA73eC51F22776AFca3](https://arbiscan.io/address/0xe09471Ab9b3f8c45D7EBAdA73eC51F22776AFca3)
