@@ -5,6 +5,7 @@ outline: deep
 # WeatherXM Network Association Financials
 
 This section describes the allocation of the WeatherXM Network Association funds.
+## Wallets and Contracts controlled by the association
 
 ## Station Rewards
 
