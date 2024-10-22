@@ -7,7 +7,7 @@ outline: deep
 This section describes the allocation of the WeatherXM Network Association funds.
 ## Wallets and Contracts controlled by the association
 
-## Station Rewards
+### Station Rewards
 
 ::: info 55M tokens are allocated for station rewards, with a daily unlock schedule.
 See [Station Rewards](/docs/station-rewards.html) for details.
