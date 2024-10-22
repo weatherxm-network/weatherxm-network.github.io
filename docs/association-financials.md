@@ -4,7 +4,7 @@ outline: deep
 
 # WeatherXM Network Association Financials
 
-This page describes the allocation of the WeatherXM Network Association funds.
+This section describes the allocation of the WeatherXM Network Association funds.
 
 ## Station Rewards
 
