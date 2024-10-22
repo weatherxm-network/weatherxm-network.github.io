@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Wallets and Contracts controled by the association
+# WeatherXM Network Association Financials
 
 This page describes the allocation of the WeatherXM Network Association funds.
 
