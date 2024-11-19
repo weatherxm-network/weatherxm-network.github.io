@@ -1,5 +1,13 @@
 # $WXM Token
 
+::: tip DEX/CEX listings
+- [Uniswap Pools](https://app.uniswap.org/explore/tokens/arbitrum/0xb6093b61544572ab42a0e43af08abafd41bf25a6)
+- [Gate.io (WXM/USDT)](https://www.gate.io/trade/WXM_USDT)
+- [MEXC (WXM/USDT)](https://www.mexc.com/exchange/WXM_USDT)
+- [BitMart (WXM/USDT)](https://www.bitmart.com/trade/en-US?symbol=WXM_USDT)
+- [ORCA](https://www.orca.so/pools?tokens=wxmJYe17a2oGJZJ1wDe6ZyRKUKmrLj2pJsavEdTVhPP)
+:::
+
 ## Purpose and Utility
 
 In order to enable the weather data ecosystem, WeatherXM Network has issues an ERC20 token called $WXM. 
@@ -32,7 +40,7 @@ the people that have supported the Network development as well as people who con
 | 30m 	| Initial&nbsp;supporters | 30m tokens will be allocated to initial supporters of the project |
 
 ## Locked tokens
-- **Treasury** tokens will be locked and they will be unlocked linearly during a 5 year period, starting from the day of the token launch.
+- **Treasury** tokens are locked and they are unlocked linearly during a 5 year period, starting from the day of the token launch.
 - **Initial Supporters'** tokens will be locked and they will be unlocked during a period of four (4) years, linearly with one year cliff.
 
 
