@@ -1,11 +1,14 @@
 # $WXM Token
 
-::: tip DEX/CEX listings
+::: tip DEX/CEX listings and aggregators
 - [Uniswap Pools](https://app.uniswap.org/explore/tokens/arbitrum/0xb6093b61544572ab42a0e43af08abafd41bf25a6)
 - [Gate.io (WXM/USDT)](https://www.gate.io/trade/WXM_USDT)
 - [MEXC (WXM/USDT)](https://www.mexc.com/exchange/WXM_USDT)
 - [BitMart (WXM/USDT)](https://www.bitmart.com/trade/en-US?symbol=WXM_USDT)
 - [ORCA](https://www.orca.so/pools?tokens=wxmJYe17a2oGJZJ1wDe6ZyRKUKmrLj2pJsavEdTVhPP)
+
+Token info is also available on [CoinMarketCap](https://coinmarketcap.com/currencies/weatherxm/) and 
+[Coingecko](https://www.coingecko.com/en/coins/weatherxm).
 :::
 
 ## Purpose and Utility
