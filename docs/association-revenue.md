@@ -6,7 +6,7 @@ outline: deep
 
 The WeatherXM Network Association has two main sources of revenue:
 
-- **Data Licensing Fees**: Fees collected through [data license auctuons](/docs/data-licensing.html).
+- **Data Licensing Fees**: Fees collected through [data license auctions](/docs/data-licensing.html).
 - **Device Onboarding Fees**: Fees collected ($100/station) from station manufacturers [for every station they build](/docs/weather-stations.html#onboarding-fees).
 
 
