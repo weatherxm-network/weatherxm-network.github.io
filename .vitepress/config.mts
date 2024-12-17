@@ -24,6 +24,7 @@ export default defineConfig({
         text: 'Association',
         items: [
           { text: 'About', link: '/docs/association' },
+          { text: 'Revenue', link: '/docs/association-revenue' },
           { text: 'Governance', link: '/docs/governance' },
           { text: 'Financials', link: '/docs/association-financials' },
         ]
