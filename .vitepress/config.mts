@@ -14,7 +14,7 @@ export default defineConfig({
       { text: 'News', link: 'https://paragraph.xyz/@weatherxm' },
     ],
     footer: {
-      message: '<a href="/public/terms-of-use.pdf">Terms of Use</a> | <a href="/public/privacy-policy.pdf">Privacy Policy</a>',
+      message: '<a href="/terms-of-use.pdf">Terms of Use</a> | <a href="/privacy-policy.pdf">Privacy Policy</a>',
       copyright: '2025 <span style="color: red;">&hearts;</span> WeatherXM Network Association',
     },
     search: {
@@ -56,8 +56,8 @@ export default defineConfig({
       {
         text: 'Legal',
         items: [
-          { text: 'Terms of Use', link: '/public/terms-of-use.pdf' },
-          { text: 'Privacy Policy', link: '/public/privacy-policy.pdf' },
+          { text: 'Terms of Use', link: '/terms-of-use.pdf' },
+          { text: 'Privacy Policy', link: '/privacy-policy.pdf' },
         ]
       }
     ],
