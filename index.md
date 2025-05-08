@@ -39,26 +39,32 @@ features:
 ---
 
 <div style="margin-top: 1rem">
-  <h2 style="font-size: 1.75rem; margin-bottom: 1rem;">
+  <h2>
     WeatherXM Network Buyback program
   </h2>
-  <div style="display: flex;">
-    <div style="flex: 0 0 35%;">
+  <div style="display: flex; gap: 1.25rem;">
+    <div style="flex: 1;">
       <iframe
-        src="https://dune.com/embeds/5029917/8313726"
+        src="https://dune.com/embeds/5029917/8313726?darkMode=true"
+        style="border: none"
         height="300"
+        width="100%"
       />
     </div>
-    <div style="flex: 0 0 35%;">
+    <div style="flex: 1;">
       <iframe
-        src="https://dune.com/embeds/5027619/8310176"
+        src="https://dune.com/embeds/5027619/8310176?darkMode=true"
+        style="border: none"
         height="300"
+        width="100%"
       />
     </div>
-    <div style="flex: 0 0 35%;">
+    <div style="flex: 1;">
       <iframe
-        src="https://dune.com/embeds/5027622/8310180"
+        src="https://dune.com/embeds/5027622/8310180?darkMode=true"
+        style="border: none"
         height="300"
+        width="100%"
       />
     </div>
   </div>

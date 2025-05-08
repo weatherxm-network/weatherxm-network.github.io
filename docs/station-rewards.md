@@ -2,26 +2,22 @@
 
 <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: flex-start; justify-content: space-between; margin-bottom: 0.5rem">
 
-  <div style="flex: 0 0 60%;">
-    Stations are rewarded with $WXM tokens (governance participation) based on the data they contribute on a daily basis.
+<div style="display:flex; gap: 1.25rem; margin-top: 1rem; align-items: center">
+  <div style="flex: 3;">
+    WeatherXM Network's weather stations are rewarded with $WXM tokens, based on the data they contribute on a daily basis. $WXM tokens offer <a href="/docs/governance">governance</a> participation.
   </div>
 
-  <div style="flex: 0 0 35%;">
+  <div style="flex: 2;">
     <iframe 
-      src="https://dune.com/embeds/3806895/6401672" 
+      src="https://dune.com/embeds/3806895/6401672?darkMode=true" 
+      style="border: none"
       width="100%" 
       height="150"
-      frameborder="0"
-    ></iframe>
+    />
   </div>
-
+</div>
 </div>
 
-<iframe
-  src="https://dune.com/embeds/3806923/6401716"
-  width="100%" 
-  height="320" 
-/>
 
 ## Algorithm
 
@@ -36,6 +32,15 @@ Users can claim their rewards by using the Merkle proof. They don't have to clai
 We use the Reward Mechanism v2.0 as described [here](https://docs.weatherxm.com/reward-mechanism#reward-mechanism-v20).
 A detailed description of the final mechanism will be published here once finalized.
 
+<div style="flex-grow: 1; margin-top: 1rem;">
+    <iframe
+        src="https://dune.com/embeds/3806923/6401716?darkMode=true"
+        style="border: none"
+        width="100%"
+        height="320"
+    />
+</div>
+
 ## Beta rewards
 
 ::: warning Important Update regarding Beta Rewards 
@@ -47,8 +52,8 @@ The Beta Rewards Table (BRT) was calculated with all station data up to May 27, 
 the project's beta phase. You can find the BRT [here](beta-rewards-allocation-table). 
 :::
 
-According to the [Token Allocation](/docs/wxm-token.html#token-allocation) table 3,000,000 $WXM are reserved to reward stations that
-participated in the network before the [Token Launch Day](/docs/wxm-token.html#token-launch-day) ("Beta period").
+According to the [Token Allocation](/docs/wxm-token#token-allocation) table 3,000,000 $WXM are reserved to reward stations that
+participated in the network before the [Token Launch Day](/docs/wxm-token#token-launch-day) ("Beta period").
 
 Beta rewards distribution will last 425 days, with Day 1 being the Token Launch day.
 

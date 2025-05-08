@@ -6,6 +6,7 @@ export default defineConfig({
   title: "weatherxm.network",
   description: "Weather 3.0",
   head: [['link', { rel: 'icon', href: '/favicon.png' }]],
+  appearance: 'force-dark',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -36,7 +37,7 @@ export default defineConfig({
           { text: 'Tokenomics', link: '/docs/wxm-token' },
           { text: 'Smart Contracts', link: '/docs/smart-contracts' },
           { text: 'Station Rewards', link: '/docs/station-rewards' },
-          { text: 'Rewards Claim', link: '/docs/rewards-claim' },
+          { text: 'Reward Claiming', link: '/docs/rewards-claim' },
         ]
       },
       {
