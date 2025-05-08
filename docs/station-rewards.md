@@ -1,6 +1,27 @@
 # Station Rewards Allocation
 
-Stations are rewarded with $WXM tokens (governance participation) based on the data they contribute on a daily basis.
+<div style="display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: flex-start; justify-content: space-between; margin-bottom: 0.5rem">
+
+  <div style="flex: 0 0 60%;">
+    Stations are rewarded with $WXM tokens (governance participation) based on the data they contribute on a daily basis.
+  </div>
+
+  <div style="flex: 0 0 35%;">
+    <iframe 
+      src="https://dune.com/embeds/3806895/6401672" 
+      width="100%" 
+      height="150"
+      frameborder="0"
+    ></iframe>
+  </div>
+
+</div>
+
+<iframe
+  src="https://dune.com/embeds/3806923/6401716"
+  width="100%" 
+  height="320" 
+/>
 
 ## Algorithm
 
