@@ -37,3 +37,29 @@ features:
     details: Learn about the Association governance.
     link: /docs/governance
 ---
+
+<div style="margin-top: 1rem">
+  <h2 style="font-size: 1.75rem; margin-bottom: 1rem;">
+    WeatherXM Network Buyback program
+  </h2>
+  <div style="display: flex;">
+    <div style="flex: 0 0 35%;">
+      <iframe
+        src="https://dune.com/embeds/5029917/8313726"
+        height="300"
+      />
+    </div>
+    <div style="flex: 0 0 35%;">
+      <iframe
+        src="https://dune.com/embeds/5027619/8310176"
+        height="300"
+      />
+    </div>
+    <div style="flex: 0 0 35%;">
+      <iframe
+        src="https://dune.com/embeds/5027622/8310180"
+        height="300"
+      />
+    </div>
+  </div>
+</div>
