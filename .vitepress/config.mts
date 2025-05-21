@@ -12,6 +12,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Learn more', link: '/docs/association' },
+      { text: '$WXM analytics', link: 'https://dune.com/weatherxm/network-stats' },
       { text: 'News', link: 'https://paragraph.xyz/@weatherxm' },
     ],
     footer: {
