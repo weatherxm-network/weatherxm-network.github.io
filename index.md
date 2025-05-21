@@ -68,4 +68,7 @@ features:
       />
     </div>
   </div>
+  <div style="margin-top: 1rem">
+    <span>View detailed $WXM token analytics on <a href="https://dune.com/weatherxm/network-stats" target="_blank">Dune Analytics</a>.</span>
+  </div>
 </div>

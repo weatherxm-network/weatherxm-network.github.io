@@ -32,13 +32,18 @@ Users can claim their rewards by using the Merkle proof. They don't have to clai
 We use the Reward Mechanism v2.0 as described [here](https://docs.weatherxm.com/reward-mechanism#reward-mechanism-v20).
 A detailed description of the final mechanism will be published here once finalized.
 
-<div style="flex-grow: 1; margin-top: 1rem;">
+<div>
+  <div style="flex-grow: 1; margin-top: 1rem;">
     <iframe
-        src="https://dune.com/embeds/3806923/6401716?darkMode=true"
-        style="border: none"
-        width="100%"
-        height="320"
+      src="https://dune.com/embeds/3806923/6401716?darkMode=true"
+      style="border: none"
+      width="100%"
+      height="320"
     />
+  </div>
+  <div style="margin-top: 1rem">
+    <span>View detailed $WXM token analytics on <a href="https://dune.com/weatherxm/network-stats" target="_blank">Dune Analytics</a>.</span>
+  </div>
 </div>
 
 ## Beta rewards
