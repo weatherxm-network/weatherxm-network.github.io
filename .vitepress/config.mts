@@ -27,9 +27,9 @@ export default defineConfig({
         text: 'Association',
         items: [
           { text: 'About', link: '/docs/association' },
-          { text: 'Revenue', link: '/docs/association-revenue' },
           { text: 'Governance', link: '/docs/governance' },
           { text: 'Financials', link: '/docs/association-financials' },
+          { text: 'Revenue', link: '/docs/association-revenue' },
         ]
       },
       {
@@ -39,6 +39,7 @@ export default defineConfig({
           { text: 'Smart Contracts', link: '/docs/smart-contracts' },
           { text: 'Station Rewards', link: '/docs/station-rewards' },
           { text: 'Reward Claiming', link: '/docs/rewards-claim' },
+          { text: '$WXM analytics on Dune', link: 'https://dune.com/weatherxm/network-stats' },
         ]
       },
       {
