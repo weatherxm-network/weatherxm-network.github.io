@@ -1,8 +1,10 @@
 // https://vitepress.dev/guide/custom-theme
 import { h } from 'vue'
-import type { Theme } from 'vitepress'
+import type { EnhanceAppContext, Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
+import './mixpanel'
 import './style.css'
+import mixpanel from './mixpanel'
 
 export default {
   extends: DefaultTheme,
@@ -12,6 +14,6 @@ export default {
     })
   },
   enhanceApp({ app, router, siteData }) {
-    // ...
+    mixpanel({app, router} as EnhanceAppContext)
   }
 } satisfies Theme
