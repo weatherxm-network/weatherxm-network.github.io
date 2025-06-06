@@ -10,6 +10,16 @@ The WeatherXM Network Association has two main sources of revenue:
 - **Device Onboarding Fees**: Fees collected ($100/station) from station manufacturers [for every station they build](/docs/weather-stations.html#onboarding-fees).
 
 
+## 2025 Revenue
+
+Current revenue for 2025: $75,000
+
+| Description | Amount | Currency | 
+|:-|-:|-:|
+| [Onboarding fees for 250 stations](https://arbiscan.io/tx/0x7ae189a05a1b9e2a2d762b83ef8774be07afbf5cf9b9d966b7c819d0313f5d74) | 25,000 | USDC |
+| [Onboarding fees for 500 stations](https://arbiscan.io/tx/0x6e2e453b62555d96f0cc0e54d7c374d392d6ca5561182fe9c9ec3c879d0206dc) | 50,000 | USDC |
+
+
 ## 2024 Revenue
 
 Total revenue for 2024: $650,000 and 200,000 WXM.
