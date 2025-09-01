@@ -21,7 +21,6 @@
     "docs:preview": "vitepress preview"
   },
   "devDependencies": {
-    "@types/mixpanel-browser": "^2.66.0",
     "vitepress": "^1.6.4"
   },
   "dependencies": {
