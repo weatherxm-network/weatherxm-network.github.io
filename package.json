@@ -25,5 +25,9 @@
   },
   "dependencies": {
     "mixpanel-browser": "^2.69.1"
+  },
+  "engines": {
+    "node": "^24",
+    "npm": "^11"
   }
 }
