@@ -40,9 +40,9 @@ Only $WXM token holders on the day the proposal was submitted are eligible to vo
 
 Voting power is equal to the amount of $WXM a voter holds.
 
-The voting period is 14 days.
+The voting period is 7 days.
 
-The quorum is 6,000,000 (six million) votes.
+The quorum is 150,000 (one hundred and fifty thousand) votes.
 
 Token holders can vote YES/NO/ABSTAIN. Abstain counts towards the quorum.
 
