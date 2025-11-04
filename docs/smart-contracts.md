@@ -12,3 +12,6 @@
 
 ## Solana
 - Token (*Bridged from Ethereum*): [wxmJYe17a2oGJZJ1wDe6ZyRKUKmrLj2pJsavEdTVhPP](https://solscan.io/token/wxmJYe17a2oGJZJ1wDe6ZyRKUKmrLj2pJsavEdTVhPP)
+
+## Base
+- Token (*Bridged from Arbitrum*): [0xf4bdd7042f4ea505838c2d432c787beb9f603274](https://basescan.org/token/0xf4bdd7042f4ea505838c2d432c787beb9f603274)
