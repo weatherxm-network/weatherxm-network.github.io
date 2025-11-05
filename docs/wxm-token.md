@@ -6,6 +6,7 @@
 - [MEXC (WXM/USDT)](https://www.mexc.com/exchange/WXM_USDT)
 - [BitMart (WXM/USDT)](https://www.bitmart.com/trade/en-US?symbol=WXM_USDT)
 - [ORCA](https://www.orca.so/pools?tokens=wxmJYe17a2oGJZJ1wDe6ZyRKUKmrLj2pJsavEdTVhPP)
+- [Aerodrome](https://www.aerodrome.finance/swap?from=0xf4bdd7042f4ea505838c2d432c787beb9f603274&to=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913&chain0=8453&chain1=8453)
 
 Token info is also available on [CoinMarketCap](https://coinmarketcap.com/currencies/weatherxm/) and 
 [Coingecko](https://www.coingecko.com/en/coins/weatherxm).
