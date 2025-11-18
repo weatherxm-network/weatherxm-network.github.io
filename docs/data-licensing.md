@@ -8,9 +8,9 @@ to use our dataset commercially.
 
 ::: info Current License Holders
 
-[The 2024 Data License Auction has ended](https://paragraph.xyz/@weatherxm/data-license-2024-winners). 
+[The 2025 Data License Auction has ended](https://paragraph.com/@weatherxm/2025-data-license-winner). 
 
-[WeatherXM AG](https://weatherxm.com) holds the only commercial data license for 2024.
+[WeatherXM AG](https://weatherxm.com) holds the only commercial data license for 2025.
 
 :::
 
@@ -20,16 +20,12 @@ More specifically, the WeatherXM Network Association will auction four (4) licen
 Commercial uses include building and selling value-added services, selling access to the data set for the duration of the license, selling the data through a REST API, building B2B or B2C services that integrate the data, using the data in proprietary weather models.
 2. **The duration of each license is one year (January 1, to December 31).**   
 The licensee can not make commercial use of the data after the license has expired.
-3. **Acceptable bids must be in $WXM and the minimum bid is 100,000 $WXM.**
-4. The auction starts on November 1 and is concluded on November 30 of the previous year.
-5. The auction is public, and bids will be submitted using a smart contract.
-6. The four licenses will be awarded to the four (4) highest bidders at the end of the auction. This is an English type, open bid auction.
+3. In November of the previous year, the Association BoD defines and advertises the minimum bid and the auction follows.
+4. The auction taks place off-chain. Bidders must email ga@weatherxm.network with the amount of $WXM and proof (link to address on arbiscan) that they already hold the amount at the time of the bid. The association will make all bids received public.
+5. The four licenses will be awarded to the four (4) highest bidders at the end of the auction. This is an English type, open bid auction.
 
 ### Special provisions for 2024:
 - 2024 licenses will be auctioned 30 days after station rewards appear on the Arbitrum mainnet. The duration of the auction will be 15 days.
-- The auction will take place off-chain. Bidders must email ga@weatherxm.network with the amount of $WXM and proof (link to address on arbiscan) that they already hold the amount at the time of the bid. The association will make all bids received public.\
-(Details for the 2024 auction will be announced before the auction starts.)
-
 
 ## Non-commercial use
 
