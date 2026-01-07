@@ -12,6 +12,14 @@ Token info is also available on [CoinMarketCap](https://coinmarketcap.com/curren
 [Coingecko](https://www.coingecko.com/en/coins/weatherxm).
 :::
 
+# Bridges
+
+::: tip Bridges for the $WXM token
+- [Ethereum <> Arbitrum](https://portal.arbitrum.io/bridge?amount=1000&token=0xde654f497a563dd7a121c176a125dd2f11f13a83)
+- [Ethereum <> Solana](https://bridge-solana.weatherxm.network)
+- [Arbitrum <> Base](https://portalbridge.com/legacy-tools/#/transfer)
+:::
+
 ## Purpose and Utility
 
 In order to enable the weather data ecosystem, WeatherXM Network has issues an ERC20 token called $WXM. 
