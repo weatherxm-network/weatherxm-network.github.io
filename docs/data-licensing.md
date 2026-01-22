@@ -8,9 +8,11 @@ to use our dataset commercially.
 
 ::: info Current License Holders
 
-[The 2025 Data License Auction has ended](https://paragraph.com/@weatherxm/2025-data-license-winner). 
+[The 2026 Data License Auction has ended](https://paragraph.com/@weatherxm/two-winners-for-2026-data-licenses). 
 
-[WeatherXM AG](https://weatherxm.com) holds the only commercial data license for 2025.
+The following organizations hold commercial data licenses for 2026:
+- **WeatherXM AG** (Zug, Switzerland)
+- **Zeus Bittensor Subnet** (ORPHEUS AI B.V., Netherlands)
 
 :::
 
