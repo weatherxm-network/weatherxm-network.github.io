@@ -12,12 +12,17 @@ The WeatherXM Network Association has two main sources of revenue:
 
 ## 2025 Revenue
 
-Current revenue for 2025: $75,000
+Current revenue for 2025: $75,000 and 200,000 WXM.
 
 | Description | Amount | Currency | 
 |:-|-:|-:|
 | [Onboarding fees for 250 stations](https://arbiscan.io/tx/0x7ae189a05a1b9e2a2d762b83ef8774be07afbf5cf9b9d966b7c819d0313f5d74) | 25,000 | USDC |
 | [Onboarding fees for 500 stations](https://arbiscan.io/tx/0x6e2e453b62555d96f0cc0e54d7c374d392d6ca5561182fe9c9ec3c879d0206dc) | 50,000 | USDC |
+| [Commercial Data Licenses for 2026 (WeatherXM AG)](https://arbiscan.io/tx/0xc33bf5d334c801837ea54257ea01a794d360e2a62403038db2fd1b42feef4130) | 100,000 | WXM |
+| [Commercial Data Licenses for 2026 (ORPHEUS AI B.V.)](https://arbiscan.io/tx/0x08e10227543ee796443b9051cacb2315bb23915e4529e578a6eabc6ddf2b488e) | 100,000 | WXM |
+
+)) | 100,000 | WXM |
+
 
 
 ## 2024 Revenue
