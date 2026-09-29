@@ -1,0 +1,28 @@
+# WeatherXM Network Association
+
+> Public information about the WeatherXM Network Association, network governance, the $WXM token, station rewards, data licensing and weather-station participation.
+
+## Canonical site
+- https://weatherxm.network/
+
+## Association and governance
+- Association: https://weatherxm.network/docs/association
+- Governance: https://weatherxm.network/docs/governance
+- Financials: https://weatherxm.network/docs/association-financials
+- Revenue: https://weatherxm.network/docs/association-revenue
+
+## Token and rewards
+- $WXM token: https://weatherxm.network/docs/wxm-token
+- Station rewards: https://weatherxm.network/docs/station-rewards
+- Reward claiming: https://weatherxm.network/docs/rewards-claim
+
+## Weather data and hardware
+- Data access: https://weatherxm.network/docs/data-access
+- Data licensing: https://weatherxm.network/docs/data-licensing
+- Weather stations: https://weatherxm.network/docs/weather-stations
+- Manufacturers: https://weatherxm.network/docs/manufacturers
+
+## Related WeatherXM resources
+- WeatherXM company and products: https://weatherxm.com/
+- Technical documentation: https://docs.weatherxm.com/
+- Network Explorer: https://explorer.weatherxm.com/

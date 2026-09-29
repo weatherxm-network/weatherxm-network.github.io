@@ -3,9 +3,19 @@ import {defineConfig} from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/",
-  title: "weatherxm.network",
-  description: "Weather 3.0",
-  head: [['link', { rel: 'icon', href: '/favicon.png' }]],
+  lang: "en-US",
+  title: "WeatherXM Network Association",
+  description: "Governance, token, rewards, data licensing and hardware information for the WeatherXM Network Association.",
+  sitemap: {
+    hostname: "https://weatherxm.network"
+  },
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.png' }],
+    ['meta', { property: 'og:site_name', content: 'WeatherXM Network Association' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:title', content: 'WeatherXM Network Association' }],
+    ['meta', { property: 'og:description', content: 'Governance, token, rewards, data licensing and hardware information for the WeatherXM Network Association.' }]
+  ],
   appearance: 'force-dark',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
