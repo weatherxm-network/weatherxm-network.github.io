@@ -1,10 +1,7 @@
 # $WXM Token
 
-::: tip DEX/CEX listings and aggregators
+::: tip DEX listings and aggregators
 - [Uniswap Pools](https://app.uniswap.org/explore/tokens/arbitrum/0xb6093b61544572ab42a0e43af08abafd41bf25a6)
-- [Gate.io (WXM/USDT)](https://www.gate.io/trade/WXM_USDT)
-- [MEXC (WXM/USDT)](https://www.mexc.com/exchange/WXM_USDT)
-- [BitMart (WXM/USDT)](https://www.bitmart.com/trade/en-US?symbol=WXM_USDT)
 - [ORCA](https://www.orca.so/pools?tokens=wxmJYe17a2oGJZJ1wDe6ZyRKUKmrLj2pJsavEdTVhPP)
 - [Aerodrome](https://www.aerodrome.finance/swap?from=0xf4bdd7042f4ea505838c2d432c787beb9f603274&to=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913&chain0=8453&chain1=8453)
 
